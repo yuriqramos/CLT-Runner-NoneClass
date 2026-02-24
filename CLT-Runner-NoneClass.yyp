@@ -37,6 +37,7 @@
   },
   "name":"CLT-Runner-NoneClass",
   "resources":[
+    {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},},
     {"id":{"name":"obj_coletavel","path":"objects/obj_coletavel/obj_coletavel.yy",},},
     {"id":{"name":"obj_historia","path":"objects/obj_historia/obj_historia.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
