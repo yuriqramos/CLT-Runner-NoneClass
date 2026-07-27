@@ -9,4 +9,7 @@ global.x_lado_direito = 152;
 // Variável de pontos
 global.pontos = 0;
 
+// Variável de vidas
+global.vidas = 3;
+
 #endregion
