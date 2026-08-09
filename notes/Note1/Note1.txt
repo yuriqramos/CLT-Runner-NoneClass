@@ -1,0 +1,8 @@
+TELA DE GAME OVER
+
+- O jogador leva game over
+- O personagem some
+- O background para
+- A tela espera um segundo e aí vai para a tela de game over
+- A tela de game over mostra os pontos feitos
+- Apertando space, volta para a tela inicial

@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_musica",
+  "%Name":"snd_dano",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":174.60245,
+  "duration":0.17034014,
   "exportDir":"",
-  "name":"snd_musica",
+  "name":"snd_dano",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_musica.mp3",
-  "volume":0.5,
+  "soundFile":"snd_dano.wav",
+  "volume":1.0,
 }
